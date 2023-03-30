@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "platform_device_samsung_crownlte",
+    "target_path": "device/samsung/crownlte"
+  },
+  {
+    "repository": "WindowsDev0/vendor_samsung_crownlte-V2",
+    "target_path": "vendor/samsung/crownlte",
+  }
+]
